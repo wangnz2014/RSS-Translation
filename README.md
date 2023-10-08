@@ -13,3 +13,4 @@
 
  - source001 [https://www.rnz.co.nz/rss/business.xml](https://www.rnz.co.nz/rss/business.xml) -> [stuff_rss.xml](rss/stuff_rss.xml)
  - source002 [https://www.scoop.co.nz/storyindex/index.rss?s.c=GE](https://www.scoop.co.nz/storyindex/index.rss?s.c=GE) -> [scoop.xml](rss/scoop.xml)
+ - source003 [https://www.rnz.co.nz/rss/world.xml](https://www.rnz.co.nz/rss/world.xml) -> [stuff_rss.xml](rss/stuff_rss.xml)
