@@ -11,6 +11,6 @@
 
 ## 已转换翻译源
 
- - source001 [https://www.rnz.co.nz/rss/business.xml](https://www.rnz.co.nz/rss/business.xml) -> [stuff_rss.xml](rss/stuff_rss.xml)
- - source002 [https://www.scoop.co.nz/storyindex/index.rss?s.c=GE](https://www.scoop.co.nz/storyindex/index.rss?s.c=GE) -> [scoop.xml](rss/scoop.xml)
- - source003 [https://www.rnz.co.nz/rss/world.xml](https://www.rnz.co.nz/rss/world.xml) -> [stuff_rss.xml](rss/stuff_rss.xml)
+ - source001 [https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&_website=nzh](https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&_website=nzh) -> [nzherald_top_rss.xml](rss/nzherald_top_rss.xml)
+ - source002 [https://www.nzherald.co.nz/arc/outboundfeeds/rss/section/nz/?outputType=xml&_website=nzh](https://www.nzherald.co.nz/arc/outboundfeeds/rss/section/nz/?outputType=xml&_website=nzh) -> [nzherald_nz_rss.xml](rss/nzherald_nz_rss.xml)
+ - source003 [https://www.rnz.co.nz/rss/national.xml](https://www.rnz.co.nz/rss/national.xml) -> [rnz_nz_rss.xml](rss/rnz_nz_rss.xml)
